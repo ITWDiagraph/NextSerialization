@@ -38,7 +38,9 @@ items:
       <Serializable>
 
       Public Class BarcodeField
+
           Inherits FieldObject
+
           Implements IFieldObject
   inheritance:
   - System.Object

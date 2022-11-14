@@ -12,8 +12,13 @@
         <Copyright>Diagraph</Copyright>
         <PackageIcon>Diagraph_Logo_Stacked_Blue_rgb.jpg</PackageIcon>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageProjectUrl>https://github.com/diagraph-developer/NextSerialization</PackageProjectUrl>
+        <PackageProjectUrl>https://itw-diagraph.github.io/NextSerialization/</PackageProjectUrl>
         <PackageVersion>1.0.1</PackageVersion>
+        <Title>NEXT Message Serialization</Title>
+        <RepositoryUrl>https://github.com/diagraph-developer/NextSerialization</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>Diagraph; NEXT Message; Serialization; ResMark;</PackageTags>
+        <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
     <ItemGroup>
@@ -30,22 +35,24 @@
     </ItemGroup>
 
     <ItemGroup>
+      <None Remove="Resources\DiagraphReferenceResMarkData.next" />
+      <None Remove="Resources\NextMessageSchema.xsd" />
+    </ItemGroup>
+
+    <ItemGroup>
         <Content Include="DiagraphLogo.ico" />
+        <Content Include="Resources\DiagraphReferenceResMarkData.next">
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </Content>
+        <Content Include="Resources\NextMessageSchema.xsd">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
     </ItemGroup>
 
     <ItemGroup>
         <None Include="Diagraph_Logo_Stacked_Blue_rgb.jpg">
             <Pack>True</Pack>
             <PackagePath>\</PackagePath>
-        </None>
-    </ItemGroup>
-
-    <ItemGroup>
-        <None Update="Resources\DiagraphReferenceResMarkData.next">
-            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-        </None>
-        <None Update="Resources\NextMessageSchema.xsd">
-            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
     </ItemGroup>
 

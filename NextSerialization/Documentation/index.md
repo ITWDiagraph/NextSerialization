@@ -9,7 +9,7 @@ message format without the need to use the UI on an HMI device.
 
 The NextSerialization API is intended to be used by customers or third-party agents with 
 development teams tasked with creating custom messages outside of the NEXTCreate platform.  
-See [API Documentation](https://diagraph-developer.github.io/NextSerialization/api/index.html) for more information.
+See [API Documentation](https://itw-diagraph.github.io/NextSerialization/) for more information.
 
 ## Getting Started
 

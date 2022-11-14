@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ProductObject Name="00157" HorizontalSpacing="200" GapBetweenPrint="1.000" TaskType="HighResTask" DPI="200">
+	<Margin />
+	<Box Width="10.000" Length="19.750" Height="10.000" />
+	<Variables />
+	<Panel Name="Front">
+		<Head UID="0" Name="PrintHead1" Type="384" Offset="1.000" Enabled="True" DPI="200">
+			<FieldObject xsi:type="BarcodeFieldObject" X="11.880" Y="0.000" LockAspectRatio="True" Type="GTIN-14" Height="2.188">
+				<Parameters MilSize="40" QuietZone="0.500" IsHumanReadable="True" Ratio="2.500" Checksum="True">
+					<Bearer Width="0.120" Height="0.125" />
+				</Parameters>
+				<Font Family="Arial" Style="Bold" Width="24" Height="24" />
+				<FieldObject xsi:type="TextFieldObject" Data="10836272001578" />
+			</FieldObject>
+		</Head>
+		<Head UID="1" Name="PrintHead2" Type="384" Offset="1.000" Enabled="True" DPI="200">
+			<FieldObject xsi:type="TextFieldObject" X="0.600" Y="0.719" LockAspectRatio="True" Data="00157  TOP  JOB  REGULAR BLEACH" Family="Arial" Style="Bold" Width="28" Height="30" />
+			<FieldObject xsi:type="TextFieldObject" X="3.750" Y="1.250" LockAspectRatio="True" Data="S1" Family="Arial" Style="Bold" Width="33" Height="30" />
+			<FieldObject xsi:type="TextFieldObject" X="0.630" Y="0.203" LockAspectRatio="True" Data="ITEM# 1349442" Family="Arial" Style="Bold" Width="29" Height="30" />
+			<FieldObject xsi:type="DateTimeFieldObject" X="2.430" Y="1.234" Format="[HH]:[mm]" LockAspectRatio="True" Family="Arial" Style="Bold" Width="29" Height="30" />
+			<FieldObject xsi:type="DateTimeFieldObject" X="0.570" Y="1.234" Format="[yy]" LockAspectRatio="True" Family="Arial" Style="Bold" Width="30" Height="30" />
+			<FieldObject xsi:type="DateTimeFieldObject" X="1.350" Y="1.234" Format="[DD]" LockAspectRatio="True" Family="Arial" Style="Bold" Width="30" Height="30" />
+		</Head>
+		<Head UID="2" Name="PrintHead3" Type="384" Offset="1.000" Enabled="True" DPI="200">
+			<FieldObject xsi:type="BarcodeFieldObject" X="13.560" Y="0.000" LockAspectRatio="True" Type="GTIN-14" Height="2.188">
+				<Parameters MilSize="40" QuietZone="0.500" IsHumanReadable="True" Ratio="2.500" Checksum="True">
+					<Bearer Width="0.120" Height="0.125" />
+				</Parameters>
+				<Font Family="Arial" Style="Bold" Width="24" Height="24" />
+				<FieldObject xsi:type="TextFieldObject" Data="10836272001578" />
+			</FieldObject>
+		</Head>
+		<Head UID="3" Name="PrintHead4" Type="384" Offset="1.000" Enabled="True" DPI="200">
+			<FieldObject xsi:type="TextFieldObject" X="1.770" Y="0.719" LockAspectRatio="True" Data="00157  TOP JOB  REGULAR  BLEACH" Family="Arial" Style="Bold" Width="28" Height="30" />
+			<FieldObject xsi:type="TextFieldObject" X="4.920" Y="1.188" LockAspectRatio="True" Data="S1" Family="Arial" Style="Bold" Width="33" Height="30" />
+			<FieldObject xsi:type="TextFieldObject" X="1.800" Y="0.203" LockAspectRatio="True" Data="ITEM# 1349442" Family="Arial" Style="Bold" Width="29" Height="30" />
+			<FieldObject xsi:type="DateTimeFieldObject" X="3.480" Y="1.203" Format="[HH]:[mm]" LockAspectRatio="True" Family="Arial" Style="Bold" Width="29" Height="30" />
+			<FieldObject xsi:type="DateTimeFieldObject" X="1.770" Y="1.188" Format="[yy]" LockAspectRatio="True" Family="Arial" Style="Bold" Width="30" Height="30" />
+			<FieldObject xsi:type="DateTimeFieldObject" X="2.460" Y="1.188" Format="[DD]" LockAspectRatio="True" Family="Arial" Style="Bold" Width="30" Height="30" />
+		</Head>
+	</Panel>
+	<Panel Name="Right" />
+	<Panel Name="Back" />
+	<Panel Name="Left" />
+	<Panel Name="Top" />
+	<Panel Name="Bottom" />
+</ProductObject>

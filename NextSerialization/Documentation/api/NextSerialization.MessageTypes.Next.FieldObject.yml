@@ -42,6 +42,7 @@ items:
       <Serializable>
 
       Public MustInherit Class FieldObject
+
           Implements IFieldObject
   inheritance:
   - System.Object

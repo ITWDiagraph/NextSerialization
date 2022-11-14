@@ -38,6 +38,7 @@ items:
       <Serializable>
 
       Public Class Font
+
           Implements IFontObject
   inheritance:
   - System.Object

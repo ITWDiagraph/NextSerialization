@@ -41,7 +41,9 @@ items:
       <Serializable>
 
       Public Class VariableField
+
           Inherits TextField
+
           Implements IFieldObject, IFontObject
   inheritance:
   - System.Object

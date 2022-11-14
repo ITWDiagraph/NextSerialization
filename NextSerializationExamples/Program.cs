@@ -2,8 +2,8 @@
 using NextSerialization.MessageTypes.Next.Extensions;
 using NextSerialization.MessageTypes.Next.Serialization;
 
-var inputFile = @"SampleFiles/DiagraphReferenceResMarkData.next";
-var outputFile = @"SampleFiles/DiagraphReference_Serialized.next";
+var inputFile = @"SampleFiles/00157.next";
+var outputFile = @"SampleFiles/00157_Serialized.next";
 
 // The following code uses the static methods of the MessageSerializer class to read and write the 
 // message XML data to/from file.

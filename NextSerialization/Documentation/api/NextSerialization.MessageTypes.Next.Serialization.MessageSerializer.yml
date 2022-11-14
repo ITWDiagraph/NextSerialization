@@ -74,6 +74,7 @@ items:
   syntax:
     content: >-
       public static T ReadMessageFile<T>(string filePath)
+
           where T : class
     parameters:
     - id: filePath
@@ -123,6 +124,7 @@ items:
   syntax:
     content: >-
       public static T ReadMessageXml<T>(string messageXml)
+
           where T : class
     parameters:
     - id: messageXml
@@ -172,6 +174,7 @@ items:
   syntax:
     content: >-
       public static void WriteMessageFile<T>(T messageRoot, string fileName)
+
           where T : class
     parameters:
     - id: messageRoot

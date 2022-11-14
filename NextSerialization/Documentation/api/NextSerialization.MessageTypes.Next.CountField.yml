@@ -40,7 +40,9 @@ items:
       <Serializable>
 
       Public Class CountField
+
           Inherits TextField
+
           Implements IFieldObject, IFontObject
   inheritance:
   - System.Object

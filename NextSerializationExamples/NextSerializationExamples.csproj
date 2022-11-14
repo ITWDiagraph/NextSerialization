@@ -10,17 +10,23 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="NextSerialization" Version="1.0.1" />
+      <None Remove="SampleFiles\00157.next" />
+      <None Remove="SampleFiles\DiagraphReferenceResMarkData.next" />
+      <None Remove="SampleFiles\NextMessageSchema.xsd" />
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="SampleFiles\" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <None Update="SampleFiles\DiagraphReferenceResMarkData.next">
+      <Content Include="SampleFiles\00157.next">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="SampleFiles\DiagraphReferenceResMarkData.next">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
+      </Content>
+      <Content Include="SampleFiles\NextMessageSchema.xsd" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NextSerialization" Version="1.0.1" />
     </ItemGroup>
 
 </Project>
