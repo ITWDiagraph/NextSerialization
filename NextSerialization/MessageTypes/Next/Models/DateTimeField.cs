@@ -9,12 +9,6 @@ using NextSerialization.MessageTypes.Next.Interfaces;
 /// Represents a textual element consisting of a formatted date and/or timestamp including configured
 /// day/week/month/year offsets.
 /// </summary>
-/// <remarks>
-/// <list type="table">
-/// <item>foo</item><description>foo item</description>
-/// <item>bar</item><description>bar item</description>
-/// </list>
-/// </remarks>
 [Serializable]
 [XmlType(TypeName = "DateTimeFieldObject")]
 public class DateTimeField : TextField, IFontObject

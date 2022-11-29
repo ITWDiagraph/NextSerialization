@@ -18,7 +18,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Margin.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Margin
     path: ../MessageTypes/Next/Models/Margin.cs
     startLine: 7
@@ -61,7 +61,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Margin.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Left
     path: ../MessageTypes/Next/Models/Margin.cs
     startLine: 14
@@ -98,7 +98,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Margin.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Right
     path: ../MessageTypes/Next/Models/Margin.cs
     startLine: 30

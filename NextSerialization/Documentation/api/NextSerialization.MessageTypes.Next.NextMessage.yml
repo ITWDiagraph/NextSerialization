@@ -17,7 +17,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/NextMessage.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: NextMessage
     path: ../MessageTypes/Next/Models/NextMessage.cs
     startLine: 5
@@ -62,7 +62,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/NextMessage.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Product
     path: ../MessageTypes/Next/Models/NextMessage.cs
     startLine: 10

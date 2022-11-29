@@ -21,7 +21,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DateTimeField
     path: ../MessageTypes/Next/Models/DateTimeField.cs
     startLine: 11
@@ -39,9 +39,7 @@ items:
       <Serializable>
 
       Public Class DateTimeField
-
           Inherits TextField
-
           Implements IFieldObject, IFontObject
   inheritance:
   - System.Object
@@ -94,7 +92,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Days
     path: ../MessageTypes/Next/Models/DateTimeField.cs
     startLine: 18
@@ -131,7 +129,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Weeks
     path: ../MessageTypes/Next/Models/DateTimeField.cs
     startLine: 34
@@ -168,7 +166,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Months
     path: ../MessageTypes/Next/Models/DateTimeField.cs
     startLine: 50
@@ -205,7 +203,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Years
     path: ../MessageTypes/Next/Models/DateTimeField.cs
     startLine: 66
@@ -242,14 +240,14 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Format
     path: ../MessageTypes/Next/Models/DateTimeField.cs
-    startLine: 82
+    startLine: 255
   assemblies:
   - NextSerialization
   namespace: NextSerialization.MessageTypes.Next
-  summary: "\nA string that describes the ouptut format.\n"
+  summary: "\nA string that describes the ouptut format.\n\n<table><thead><tr><th>Date Format</th><th>Description</th></tr></thead><tbody><tr><td>[d]</td><td>Day (1-31)</td></tr><tr><td>[dd]</td><td>Day (01-31)</td></tr><tr><td>[DD]</td><td>Day (Julian)</td></tr><tr><td>[ddd]</td><td>Day (Mon-Sun)</td></tr><tr><td>[dddd]</td><td>Day (Monday-Sunday)</td></tr><tr><td>[DM]</td><td>Day of Month (User Defined)</td></tr><tr><td>[DW]</td><td>Day of Week (User Defined)</td></tr><tr><td>[M]</td><td>Month (1-12)</td></tr><tr><td>[MM]</td><td>Month (01-12)</td></tr><tr><td>[MMM]</td><td>Month (JAN-DEC)</td></tr><tr><td>[MMMM]</td><td>Month (January-December)</td></tr><tr><td>[MMMMM]</td><td>Month (User Defined)</td></tr><tr><td>[wwww]</td><td>Week (01-53)</td></tr><tr><td>[WWWW]</td><td>Week (User Defined)</td></tr><tr><td>[y]</td><td>Year (0-9)</td></tr><tr><td>[yy]</td><td>Year (00-99)</td></tr><tr><td>[yyyy]</td><td>Year (0000-9999)</td></tr><tr><td>[YYYY]</td><td>Year (User Defined)</td></tr></tbody></table>\n\n<table><thead><tr><th>Time Format</th><th>Description</th></tr></thead><tbody><tr><td>[h]</td><td>Hour (1-12)</td></tr><tr><td>[H]</td><td>Hour (0-23)</td></tr><tr><td>[hh]</td><td>Hour (01-12)</td></tr><tr><td>[HH]</td><td>Hour (00-23)</td></tr><tr><td>[HHH]</td><td>Hour (User Defined)</td></tr><tr><td>[m]</td><td>Minute (0-59)</td></tr><tr><td>[mm]</td><td>Minute (00-59)</td></tr><tr><td>[mmm]</td><td>Minute (User Defined)</td></tr><tr><td>[qh]</td><td>Quarter Hour (00-95)</td></tr><tr><td>[QH]</td><td>Quarter Hour (User Defined)</td></tr><tr><td>[s]</td><td>Second (0-59)</td></tr><tr><td>[ss]</td><td>Second (00-59)</td></tr></tbody></table>\n\n<table><thead><tr><th>Format Modifier</th><th>Description</th></tr></thead><tbody><tr><td>[a]</td><td>am/pm</td></tr><tr><td>[A]</td><td>AM/PM</td></tr><tr><td>[ap]</td><td>am/pm</td></tr><tr><td>[AP]</td><td>AM/PM</td></tr><tr><td>[n]</td><td>Next Line</td></tr><tr><td>[shift]</td><td>Shift code</td></tr><tr><td>[t]</td><td>Timezone</td></tr><tr><td>[tab]</td><td>Tab</td></tr></tbody></table>\n"
   example: []
   syntax:
     content: public string Format { get; set; }

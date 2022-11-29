@@ -23,7 +23,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataSource
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 8
@@ -67,7 +67,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DisplayColumns
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 14
@@ -104,7 +104,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataColumns
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 21
@@ -141,7 +141,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ColumnValues
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 28
@@ -178,7 +178,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Name
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 35
@@ -215,7 +215,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: TableName
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 41
@@ -252,7 +252,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataConnection
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 50
@@ -290,7 +290,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Id
     path: ../MessageTypes/Next/Models/DataSource.cs
     startLine: 56

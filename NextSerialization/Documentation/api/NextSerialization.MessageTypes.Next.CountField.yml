@@ -22,7 +22,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: CountField
     path: ../MessageTypes/Next/Models/CountField.cs
     startLine: 9
@@ -40,9 +40,7 @@ items:
       <Serializable>
 
       Public Class CountField
-
           Inherits TextField
-
           Implements IFieldObject, IFontObject
   inheritance:
   - System.Object
@@ -95,7 +93,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: StartCount
     path: ../MessageTypes/Next/Models/CountField.cs
     startLine: 18
@@ -132,7 +130,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: StopCount
     path: ../MessageTypes/Next/Models/CountField.cs
     startLine: 34
@@ -169,7 +167,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Increment
     path: ../MessageTypes/Next/Models/CountField.cs
     startLine: 50
@@ -206,7 +204,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: NumberOfDigits
     path: ../MessageTypes/Next/Models/CountField.cs
     startLine: 66
@@ -243,7 +241,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PalletSize
     path: ../MessageTypes/Next/Models/CountField.cs
     startLine: 82
@@ -280,7 +278,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: AlphaCount
     path: ../MessageTypes/Next/Models/CountField.cs
     startLine: 98

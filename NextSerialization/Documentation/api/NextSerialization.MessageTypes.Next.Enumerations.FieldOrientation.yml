@@ -18,7 +18,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/FieldOrientation.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FieldOrientation
     path: ../MessageTypes/Next/Enumerations/FieldOrientation.cs
     startLine: 7
@@ -51,7 +51,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/FieldOrientation.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Horizontal
     path: ../MessageTypes/Next/Enumerations/FieldOrientation.cs
     startLine: 10
@@ -83,7 +83,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/FieldOrientation.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Vertical
     path: ../MessageTypes/Next/Enumerations/FieldOrientation.cs
     startLine: 13

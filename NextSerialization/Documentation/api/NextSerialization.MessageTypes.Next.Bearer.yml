@@ -18,7 +18,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Bearer.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Bearer
     path: ../MessageTypes/Next/Models/Bearer.cs
     startLine: 8
@@ -71,7 +71,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Bearer.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/Bearer.cs
     startLine: 14
@@ -108,7 +108,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Bearer.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/Bearer.cs
     startLine: 30

@@ -18,7 +18,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/ComPortData.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ComPortData
     path: ../MessageTypes/Next/Models/ComPortData.cs
     startLine: 6
@@ -61,7 +61,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/ComPortData.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Key
     path: ../MessageTypes/Next/Models/ComPortData.cs
     startLine: 12
@@ -98,7 +98,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/ComPortData.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Value
     path: ../MessageTypes/Next/Models/ComPortData.cs
     startLine: 18

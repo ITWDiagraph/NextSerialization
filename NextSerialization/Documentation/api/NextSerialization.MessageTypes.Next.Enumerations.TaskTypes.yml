@@ -17,7 +17,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/TaskTypes.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: TaskTypes
     path: ../MessageTypes/Next/Enumerations/TaskTypes.cs
     startLine: 6
@@ -50,7 +50,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/TaskTypes.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: HighResTask
     path: ../MessageTypes/Next/Enumerations/TaskTypes.cs
     startLine: 11

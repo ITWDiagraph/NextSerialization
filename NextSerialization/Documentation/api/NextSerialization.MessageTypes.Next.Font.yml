@@ -20,7 +20,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Font.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Font
     path: ../MessageTypes/Next/Models/Font.cs
     startLine: 10
@@ -38,7 +38,6 @@ items:
       <Serializable>
 
       Public Class Font
-
           Implements IFontObject
   inheritance:
   - System.Object
@@ -77,7 +76,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Font.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Family
     path: ../MessageTypes/Next/Models/Font.cs
     startLine: 17
@@ -116,7 +115,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Font.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Style
     path: ../MessageTypes/Next/Models/Font.cs
     startLine: 23
@@ -155,7 +154,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Font.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/Font.cs
     startLine: 29
@@ -192,7 +191,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Font.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/Font.cs
     startLine: 35
