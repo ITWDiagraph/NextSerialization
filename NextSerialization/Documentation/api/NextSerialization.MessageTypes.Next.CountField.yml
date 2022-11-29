@@ -21,7 +21,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: CountField
     path: ../MessageTypes/Next/Models/CountField.cs
@@ -92,7 +92,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: StartCount
     path: ../MessageTypes/Next/Models/CountField.cs
@@ -129,7 +129,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: StopCount
     path: ../MessageTypes/Next/Models/CountField.cs
@@ -166,7 +166,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Increment
     path: ../MessageTypes/Next/Models/CountField.cs
@@ -203,7 +203,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: NumberOfDigits
     path: ../MessageTypes/Next/Models/CountField.cs
@@ -240,7 +240,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PalletSize
     path: ../MessageTypes/Next/Models/CountField.cs
@@ -277,7 +277,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/CountField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: AlphaCount
     path: ../MessageTypes/Next/Models/CountField.cs

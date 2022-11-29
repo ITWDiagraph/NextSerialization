@@ -16,7 +16,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LogoField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LogoField
     path: ../MessageTypes/Next/Models/LogoField.cs
@@ -82,7 +82,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LogoField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FileName
     path: ../MessageTypes/Next/Models/LogoField.cs

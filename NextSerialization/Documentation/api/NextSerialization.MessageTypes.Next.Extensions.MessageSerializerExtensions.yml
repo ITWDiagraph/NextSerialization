@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Extensions/MessageSerializerExtensions.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: MessageSerializerExtensions
     path: ../MessageTypes/Next/Extensions/MessageSerializerExtensions.cs
@@ -62,7 +62,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Extensions/MessageSerializerExtensions.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: WriteMessageToFile
     path: ../MessageTypes/Next/Extensions/MessageSerializerExtensions.cs
@@ -107,7 +107,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Extensions/MessageSerializerExtensions.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ReadMessageFromFile
     path: ../MessageTypes/Next/Extensions/MessageSerializerExtensions.cs

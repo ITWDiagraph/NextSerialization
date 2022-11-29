@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFontObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: IFontObject
     path: ../MessageTypes/Next/Interfaces/IFontObject.cs
@@ -50,7 +50,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFontObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Family
     path: ../MessageTypes/Next/Interfaces/IFontObject.cs
@@ -84,7 +84,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFontObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Style
     path: ../MessageTypes/Next/Interfaces/IFontObject.cs

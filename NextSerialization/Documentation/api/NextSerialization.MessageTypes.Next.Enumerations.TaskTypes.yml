@@ -16,7 +16,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/TaskTypes.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: TaskTypes
     path: ../MessageTypes/Next/Enumerations/TaskTypes.cs
@@ -49,7 +49,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/TaskTypes.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: HighResTask
     path: ../MessageTypes/Next/Enumerations/TaskTypes.cs

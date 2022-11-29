@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.BarcodeField.html",
-          "hash": "gPWGGJsdMFNGz7vqeb4hUCSy+tuAlPyOItqna/bYORQ="
+          "hash": "WQREYNjdupUbRWh0LLXN/NI4YAsR9t5dEiSMnnRA6Bk="
         }
       },
       "is_incremental": true,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Bearer.html",
-          "hash": "NBGI9WQBzwpO1m7Ja9qa6C9wHMfbZoi+nCyjxEZsVBc="
+          "hash": "ljJ/t/kmmhU1X9EqD33HfCc+skrBukzhXOeV2Z0ox5g="
         }
       },
       "is_incremental": true,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Box.html",
-          "hash": "tDV9yr0XqwY3Niom4ODtxUM9KubE4wwQVY1PHDzp3jc="
+          "hash": "VRAMeIyq7ryFV0xd4CclHkuABqdxlrKnZhJBCRlZOdo="
         }
       },
       "is_incremental": true,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Column.html",
-          "hash": "GbSHz9Z8ugZKtA2mtn6+v89mYYPcnvSh9mktHlOV2dE="
+          "hash": "RL8tw2qRoWIK/S1e/m9tOnN/iJWa6OMKHnBqjj53hb0="
         }
       },
       "is_incremental": true,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.ComPortData.html",
-          "hash": "DDci7zKpop/LUDpHgs0GnpqHB4O32fQt0Zo+enHx9G4="
+          "hash": "GPl98yCqskcWp1lFJtlwrHthZJEHm64a3Cw+9t95CJc="
         }
       },
       "is_incremental": true,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.CountField.html",
-          "hash": "myqGL72iuSwSTvjzTM2G3d/vfcGnwKnGkFbwFH5/Ca8="
+          "hash": "mkARK3ccji9jcn662GL1SEbNQylaAmJI/k4zJGYS254="
         }
       },
       "is_incremental": true,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.DataSource.html",
-          "hash": "OSq80Kc/Sk7Ns8T7QqorgNot7WyRc5iyi+GkXSeYz3A="
+          "hash": "Fxm72t+bim/RVbU4H/+BVggJXmN8Khs5hQHEPC4yS0c="
         }
       },
       "is_incremental": true,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.DateTimeField.html",
-          "hash": "EDU/bKisV2SHWgMr8bUYnAP78qSZWZf1YGb2Wc5xzpQ="
+          "hash": "GeP5bCRB5LRKxbvYNOkoSufm4Pg8RqaKo0HrenXiHZ0="
         }
       },
       "is_incremental": true,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.BarcodeEncoding.html",
-          "hash": "61sceBBWlz/IX48XNbiaKtAChoSBJYOmyv41yhnG9r4="
+          "hash": "jCqm8DG8p1iJ10mvUaRfyN+vgP+2uCrMfISsJwDNxbY="
         }
       },
       "is_incremental": true,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.BarcodeTypes.html",
-          "hash": "Nx0yE4grGfI2GgGxqwWOewDp3JdZEprLK/Xb+aKmgcc="
+          "hash": "E3U/2JlwqyWBRJkoAQqUlyoPlgrzblHAGw3F5EIydcg="
         }
       },
       "is_incremental": true,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.FieldOrientation.html",
-          "hash": "bVLnIcSqka4c7PB3LjY5Hi3OK7mdoxtkxuvqw+VGNgs="
+          "hash": "f/PYLzEx5H/nvU2gN1r7PE0Zr0o1RadmPQwaX4Ti9x0="
         }
       },
       "is_incremental": true,
@@ -141,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.PrintHeadTypes.html",
-          "hash": "ztbu4TqxUBFxnHMvQejbmXauZZlpu3FUHaOLOHtdkOE="
+          "hash": "FTwXWDnZz4ww+9hgg5QC8wwBRjpjhFyZyh+ib4wmwZ4="
         }
       },
       "is_incremental": true,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.PrintResolutions.html",
-          "hash": "OPzBIFnXPgoh7h7wETCxCE7i1yKVa+LRAtqxH4VocvU="
+          "hash": "rMNEG7OHQogt6Qke7FYW9U9aRvzF5GUolCEP0YZkjQ0="
         }
       },
       "is_incremental": true,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.TaskTypes.html",
-          "hash": "AcEELp29Ms1zTIaLBrf3YHco511E5sYWjhwlPBvh1Ps="
+          "hash": "DtOY10lgeBagDcQ3JmWbbqczSw/8Owza3apHu2407sg="
         }
       },
       "is_incremental": true,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.VarFieldSources.html",
-          "hash": "a7EH9YsfKSY7/NYBVwqlveyot/VZ72LVRx2MAVLEhCs="
+          "hash": "tw0j1UYerwU0wmE7tSuqw/rpXwd3oClSHUNdQq3GLhE="
         }
       },
       "is_incremental": true,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Extensions.MessageSerializerExtensions.html",
-          "hash": "RLeTQQIyjoEZ7JxB1PJOA+qNwbtu6fpmVW5C6AMp2NE="
+          "hash": "W95yB39NL/2gcvf6GvDX3NAbLPeAdTjWdJhZzUNUoYE="
         }
       },
       "is_incremental": true,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.FieldObject.html",
-          "hash": "cNI3/u/VAuqIriAT0WlTNWNwQIU45I4uCLuaSTQElYM="
+          "hash": "L2G/T8cfhnoGRexea2Gdntd4caJjj4zESmzTpswD44A="
         }
       },
       "is_incremental": true,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Font.html",
-          "hash": "jOpQu0Uu14zoW06MFU1iNYThY6BHNoDEEzhdmAPnA6E="
+          "hash": "um5SUkB+f7nnJzPYuZGTBT99Cw/eC98vwpebTGPqj6Y="
         }
       },
       "is_incremental": true,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IFieldObject.html",
-          "hash": "CZ9ZejumUO2nQJ5hS7rURfjXaz6SPxanOfCLI79dmak="
+          "hash": "AdmEhR5gOAYqvsCrrUpy6S6KJVWp05ZvXW4XdjSyzys="
         }
       },
       "is_incremental": true,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IFontObject.html",
-          "hash": "cgBr+DhA5ffSLVaiGFjkkrxvgBfR0GuGbxMJIekTmLY="
+          "hash": "j49jzkMPqeCMyqShZREzPSHfp90n0J/e8ZWP7DumkUw="
         }
       },
       "is_incremental": true,
@@ -273,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IShapeObject.html",
-          "hash": "Pjlr28KkNLzxMS2wKnOe9egxTL7zaW+9iolPHMU+Oq4="
+          "hash": "0L8giDb/T9avte018IbsFQfUC8RUl1aLo4MvXGk8qyg="
         }
       },
       "is_incremental": true,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.LineField.html",
-          "hash": "PZf59SiHsbldliD9KobiWGkJ9nFZ4yyqL8uk4lwml7w="
+          "hash": "L6+YUPgnBQz1rg3CNfVegr7lLlCmGoq0GJRZCgL7QFk="
         }
       },
       "is_incremental": true,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.LineThickness.html",
-          "hash": "JRMaIlJN+EdPu+TS4x5Sbn5QdClhIznaTLcDat74maY="
+          "hash": "iS6TLdf/zD5e6p5Vcu0VopmdlACvloYRIbGKQWEcJz4="
         }
       },
       "is_incremental": true,
@@ -321,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.LogoField.html",
-          "hash": "oa5IgLzqJRtdVIFM7disE0YK2vKLIxXEmxYufzuISDg="
+          "hash": "nWyhzCl1bw9AsYeKIebRIaJOT+WAoQwAGOGyLQzveMo="
         }
       },
       "is_incremental": true,
@@ -333,7 +333,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Margin.html",
-          "hash": "nXEzv9/MejZjbTE24/3Z9cCoBoTHBN79W0eDFBnh1+Y="
+          "hash": "6HAlvjmgm/oSsZidxgrMtfIQXWTEG+IBfCUnofHOG1k="
         }
       },
       "is_incremental": true,
@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.NextMessage.html",
-          "hash": "kDMFrOd3cG8VrWN1mSeJVdgmtDHbcFz7TlYOKPCSclM="
+          "hash": "tAZT2u7Uzp8+lY0vcKvLxOUTCtmqy4adfc6Xd09fg+c="
         }
       },
       "is_incremental": true,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Panel.html",
-          "hash": "kZkCXX1eOtK4RsbdtrHYUU4Y10cl+L0ftliThtnL2iE="
+          "hash": "vc1KxRA9o6+ejNuraw+pmRPjgGHnzoggXXHWmNamnxA="
         }
       },
       "is_incremental": true,
@@ -369,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Parameters.html",
-          "hash": "iZRmWh4tR4lMtyH97smUff9IUHcjbPV0ftTrLdRvM+8="
+          "hash": "pvIHiiUKjaDaBTqS0W/iG+baVRB+WbMYGQ1CYWkU7p0="
         }
       },
       "is_incremental": true,
@@ -381,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.PrintHead.html",
-          "hash": "v2mAU3MkbRFAnCITji83ERc1VMcK95umH/Md7Q8B5bo="
+          "hash": "MEQFOzC/YNzQcUG/Wr4szHsVxfjuBrGRVJh65NxSHOM="
         }
       },
       "is_incremental": true,
@@ -393,7 +393,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Product.html",
-          "hash": "s9yGHQ35KM/h0G0SkZuuRtbSD80F2Dy27vulry5jNPE="
+          "hash": "1Zq+keQ7Tp77hJZ0f9wrifEjtdIknnaU6kPjDlGCi6s="
         }
       },
       "is_incremental": true,
@@ -405,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.RectangleField.html",
-          "hash": "YoPQUjOmaQGeynGCfPEJjnkFqM5IbtC/+l4j8YmnW1k="
+          "hash": "f5GpgZXeTCrDiPKAUc4qehmBXHvHzCZ8OjnBF0HlaRw="
         }
       },
       "is_incremental": true,
@@ -417,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Resource.html",
-          "hash": "5uvV4UkqOp1sZe21wUp3IIRSHn+KjXA8l0o3bH2Jgbs="
+          "hash": "qnl/qiMlvrufG4pLxt90jqsXlXtMdsRWH3Pv70ikkU4="
         }
       },
       "is_incremental": true,
@@ -429,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Resources.html",
-          "hash": "jpLFVWBxNgPag4Jid+xkuPFAU1Mb7TPH9bczlQsgu90="
+          "hash": "Mp1E6B8+jbjrOn3MAqIlDtk9KCoC55sj5gzRC0xvVy4="
         }
       },
       "is_incremental": true,
@@ -441,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Serialization.MessageSerializer.html",
-          "hash": "f/0GqU7PDE9A0qYgw2O6Texvf/xVFbdQqG+CRMctEQU="
+          "hash": "ePVWiHYCGUD4iHM3q3EAlzJBLMA8j+tMDmj7/W8yic0="
         }
       },
       "is_incremental": true,
@@ -465,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.TextField.html",
-          "hash": "Jh5Ita+aNS9pzw5OaV7pcgXnRDcVfh/mzJObkIohhus="
+          "hash": "SqB8TIUVhzwERyna0av0PmqY7en9ZJCCc21Z9MuTw1Y="
         }
       },
       "is_incremental": true,
@@ -477,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.VariableField.html",
-          "hash": "2NLwYWGBUSC8erfyGlwBdwn3Q7JhF8nQTd9oqqUYlnI="
+          "hash": "36NKx8GREJGVkDVIfUZ1378Gd/VnzYmwmH0ZWNUg7Ms="
         }
       },
       "is_incremental": true,
@@ -489,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api/NextSerialization.MessageTypes.Next.Variables.html",
-          "hash": "lhu/qW4+qeUnV1PJBilOfWYX+CjOHWrv9WZ9hH3ELYg="
+          "hash": "B8hcw/1pordN+G/jg6/pUy3GuC3m1wLaYPNfstQwIMU="
         }
       },
       "is_incremental": true,

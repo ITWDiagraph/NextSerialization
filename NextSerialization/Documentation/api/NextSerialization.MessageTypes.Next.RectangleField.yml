@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/RectangleField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: RectangleField
     path: ../MessageTypes/Next/Models/RectangleField.cs
@@ -84,7 +84,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/RectangleField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Orientation
     path: ../MessageTypes/Next/Models/RectangleField.cs
@@ -123,7 +123,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/RectangleField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LineThickness
     path: ../MessageTypes/Next/Models/RectangleField.cs

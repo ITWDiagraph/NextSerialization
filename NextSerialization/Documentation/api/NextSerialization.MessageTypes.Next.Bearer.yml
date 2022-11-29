@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Bearer.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Bearer
     path: ../MessageTypes/Next/Models/Bearer.cs
@@ -70,7 +70,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Bearer.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/Bearer.cs
@@ -107,7 +107,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Bearer.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/Bearer.cs

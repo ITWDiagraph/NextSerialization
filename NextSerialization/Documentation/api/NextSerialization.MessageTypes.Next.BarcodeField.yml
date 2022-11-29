@@ -19,7 +19,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: BarcodeField
     path: ../MessageTypes/Next/Models/BarcodeField.cs
@@ -85,7 +85,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: BarcodeType
     path: ../MessageTypes/Next/Models/BarcodeField.cs
@@ -122,7 +122,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Parameters
     path: ../MessageTypes/Next/Models/BarcodeField.cs
@@ -159,7 +159,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Font
     path: ../MessageTypes/Next/Models/BarcodeField.cs
@@ -196,7 +196,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FieldObject
     path: ../MessageTypes/Next/Models/BarcodeField.cs

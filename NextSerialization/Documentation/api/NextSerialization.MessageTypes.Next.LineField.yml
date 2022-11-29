@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LineField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LineField
     path: ../MessageTypes/Next/Models/LineField.cs
@@ -83,7 +83,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LineField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Orientation
     path: ../MessageTypes/Next/Models/LineField.cs
@@ -120,7 +120,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LineField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LineThickness
     path: ../MessageTypes/Next/Models/LineField.cs
