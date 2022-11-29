@@ -25,7 +25,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Parameters
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -78,7 +78,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Bearer
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -115,7 +115,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: MilSize
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -152,7 +152,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: QuietZone
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -189,7 +189,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: IsHumanReadable
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -226,7 +226,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FormattedRatio
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -263,7 +263,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Checksum
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -300,7 +300,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Encoding
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -337,7 +337,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: CaseSensitive
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -374,7 +374,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/Parameters.cs
@@ -411,7 +411,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/Parameters.cs

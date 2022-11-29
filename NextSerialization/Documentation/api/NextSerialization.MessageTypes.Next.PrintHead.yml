@@ -22,7 +22,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PrintHead
     path: ../MessageTypes/Next/Models/PrintHead.cs
@@ -75,7 +75,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FieldObjects
     path: ../MessageTypes/Next/Models/PrintHead.cs
@@ -112,7 +112,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Uid
     path: ../MessageTypes/Next/Models/PrintHead.cs
@@ -150,7 +150,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Name
     path: ../MessageTypes/Next/Models/PrintHead.cs
@@ -187,7 +187,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Type
     path: ../MessageTypes/Next/Models/PrintHead.cs
@@ -225,7 +225,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Offset
     path: ../MessageTypes/Next/Models/PrintHead.cs
@@ -262,7 +262,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Enabled
     path: ../MessageTypes/Next/Models/PrintHead.cs
@@ -299,7 +299,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/PrintHead.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Dpi
     path: ../MessageTypes/Next/Models/PrintHead.cs

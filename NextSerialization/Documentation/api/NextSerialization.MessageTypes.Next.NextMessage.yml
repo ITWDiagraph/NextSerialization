@@ -16,7 +16,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/NextMessage.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: NextMessage
     path: ../MessageTypes/Next/Models/NextMessage.cs
@@ -61,7 +61,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/NextMessage.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Product
     path: ../MessageTypes/Next/Models/NextMessage.cs

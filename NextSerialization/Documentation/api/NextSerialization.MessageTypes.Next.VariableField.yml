@@ -22,7 +22,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: VariableField
     path: ../MessageTypes/Next/Models/VariableField.cs
@@ -93,7 +93,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Source
     path: ../MessageTypes/Next/Models/VariableField.cs
@@ -130,7 +130,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Index
     path: ../MessageTypes/Next/Models/VariableField.cs
@@ -167,7 +167,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataSetName
     path: ../MessageTypes/Next/Models/VariableField.cs
@@ -204,7 +204,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataColumnName
     path: ../MessageTypes/Next/Models/VariableField.cs
@@ -241,7 +241,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DefaultPreview
     path: ../MessageTypes/Next/Models/VariableField.cs
@@ -278,7 +278,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PromptText
     path: ../MessageTypes/Next/Models/VariableField.cs
@@ -315,7 +315,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Length
     path: ../MessageTypes/Next/Models/VariableField.cs

@@ -23,7 +23,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FieldObject
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -87,7 +87,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: X
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -127,7 +127,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Y
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -167,7 +167,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -207,7 +207,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -247,7 +247,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LockAspectRatio
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -286,7 +286,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FNC1
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -328,7 +328,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Ai
     path: ../MessageTypes/Next/Models/FieldObject.cs
@@ -367,7 +367,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Regex
     path: ../MessageTypes/Next/Models/FieldObject.cs

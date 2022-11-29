@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/PrintResolutions.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PrintResolutions
     path: ../MessageTypes/Next/Enumerations/PrintResolutions.cs
@@ -50,7 +50,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/PrintResolutions.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Low
     path: ../MessageTypes/Next/Enumerations/PrintResolutions.cs
@@ -84,7 +84,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/PrintResolutions.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: High
     path: ../MessageTypes/Next/Enumerations/PrintResolutions.cs

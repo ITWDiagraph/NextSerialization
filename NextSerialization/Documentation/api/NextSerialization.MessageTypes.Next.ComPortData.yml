@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/ComPortData.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ComPortData
     path: ../MessageTypes/Next/Models/ComPortData.cs
@@ -60,7 +60,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/ComPortData.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Key
     path: ../MessageTypes/Next/Models/ComPortData.cs
@@ -97,7 +97,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/ComPortData.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Value
     path: ../MessageTypes/Next/Models/ComPortData.cs

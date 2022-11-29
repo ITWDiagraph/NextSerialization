@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IShapeObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: IShapeObject
     path: ../MessageTypes/Next/Interfaces/IShapeObject.cs
@@ -50,7 +50,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IShapeObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Orientation
     path: ../MessageTypes/Next/Interfaces/IShapeObject.cs
@@ -84,7 +84,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IShapeObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LineThickness
     path: ../MessageTypes/Next/Interfaces/IShapeObject.cs

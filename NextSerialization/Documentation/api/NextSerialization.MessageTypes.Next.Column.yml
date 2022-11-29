@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Column.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Column
     path: ../MessageTypes/Next/Models/Column.cs
@@ -60,7 +60,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Column.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Name
     path: ../MessageTypes/Next/Models/Column.cs
@@ -97,7 +97,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Column.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Value
     path: ../MessageTypes/Next/Models/Column.cs

@@ -20,7 +20,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: IFieldObject
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
@@ -53,7 +53,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: X
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
@@ -88,7 +88,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Y
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
@@ -123,7 +123,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LockAspectRatio
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
@@ -157,7 +157,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
@@ -192,7 +192,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FNC1
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs

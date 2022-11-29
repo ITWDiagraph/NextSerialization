@@ -27,7 +27,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Product
     path: ../MessageTypes/Next/Models/Product.cs
@@ -80,7 +80,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Name
     path: ../MessageTypes/Next/Models/Product.cs
@@ -117,7 +117,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: GapBetweenPrint
     path: ../MessageTypes/Next/Models/Product.cs
@@ -155,7 +155,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: TaskType
     path: ../MessageTypes/Next/Models/Product.cs
@@ -193,7 +193,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PrintCount
     path: ../MessageTypes/Next/Models/Product.cs
@@ -230,7 +230,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: UsePrintCount
     path: ../MessageTypes/Next/Models/Product.cs
@@ -267,7 +267,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ContinuousPrint
     path: ../MessageTypes/Next/Models/Product.cs
@@ -304,7 +304,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Dpi
     path: ../MessageTypes/Next/Models/Product.cs
@@ -342,7 +342,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Margin
     path: ../MessageTypes/Next/Models/Product.cs
@@ -379,7 +379,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Box
     path: ../MessageTypes/Next/Models/Product.cs
@@ -416,7 +416,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Variables
     path: ../MessageTypes/Next/Models/Product.cs
@@ -453,7 +453,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Panel
     path: ../MessageTypes/Next/Models/Product.cs
@@ -491,7 +491,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Product.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Resources
     path: ../MessageTypes/Next/Models/Product.cs

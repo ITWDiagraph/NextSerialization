@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Panel.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Panel
     path: ../MessageTypes/Next/Models/Panel.cs
@@ -70,7 +70,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Panel.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Name
     path: ../MessageTypes/Next/Models/Panel.cs
@@ -107,7 +107,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Panel.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PrintHead
     path: ../MessageTypes/Next/Models/Panel.cs

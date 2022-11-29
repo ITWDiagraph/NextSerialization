@@ -29,7 +29,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: BarcodeEncoding
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -62,7 +62,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: EightBit
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -94,7 +94,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: AlphaNumeric
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -126,7 +126,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Ascii
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -158,7 +158,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Best
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -190,7 +190,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Binary
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -222,7 +222,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Eci
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -254,7 +254,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: EdiFact
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -286,7 +286,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Fast
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -318,7 +318,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Fnc1First
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -350,7 +350,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Fnc1Second
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -382,7 +382,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Kanji
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -414,7 +414,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Numeric
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -446,7 +446,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Text
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs
@@ -478,7 +478,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/BarcodeEncoding.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: X12
     path: ../MessageTypes/Next/Enumerations/BarcodeEncoding.cs

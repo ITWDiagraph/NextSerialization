@@ -22,7 +22,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataSource
     path: ../MessageTypes/Next/Models/DataSource.cs
@@ -66,7 +66,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DisplayColumns
     path: ../MessageTypes/Next/Models/DataSource.cs
@@ -103,7 +103,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataColumns
     path: ../MessageTypes/Next/Models/DataSource.cs
@@ -140,7 +140,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ColumnValues
     path: ../MessageTypes/Next/Models/DataSource.cs
@@ -177,7 +177,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Name
     path: ../MessageTypes/Next/Models/DataSource.cs
@@ -214,7 +214,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: TableName
     path: ../MessageTypes/Next/Models/DataSource.cs
@@ -251,7 +251,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataConnection
     path: ../MessageTypes/Next/Models/DataSource.cs
@@ -289,7 +289,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DataSource.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Id
     path: ../MessageTypes/Next/Models/DataSource.cs

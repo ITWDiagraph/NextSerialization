@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Margin.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Margin
     path: ../MessageTypes/Next/Models/Margin.cs
@@ -60,7 +60,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Margin.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Left
     path: ../MessageTypes/Next/Models/Margin.cs
@@ -97,7 +97,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Margin.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Right
     path: ../MessageTypes/Next/Models/Margin.cs

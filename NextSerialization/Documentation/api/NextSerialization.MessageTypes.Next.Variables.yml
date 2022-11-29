@@ -17,7 +17,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Variables.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Variables
     path: ../MessageTypes/Next/Models/Variables.cs
@@ -70,7 +70,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Variables.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ComPortSources
     path: ../MessageTypes/Next/Models/Variables.cs
@@ -107,7 +107,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Variables.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataSources
     path: ../MessageTypes/Next/Models/Variables.cs

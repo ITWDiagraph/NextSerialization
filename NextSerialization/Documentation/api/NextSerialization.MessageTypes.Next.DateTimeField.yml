@@ -20,7 +20,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DateTimeField
     path: ../MessageTypes/Next/Models/DateTimeField.cs
@@ -91,7 +91,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Days
     path: ../MessageTypes/Next/Models/DateTimeField.cs
@@ -128,7 +128,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Weeks
     path: ../MessageTypes/Next/Models/DateTimeField.cs
@@ -165,7 +165,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Months
     path: ../MessageTypes/Next/Models/DateTimeField.cs
@@ -202,7 +202,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Years
     path: ../MessageTypes/Next/Models/DateTimeField.cs
@@ -239,7 +239,7 @@ items:
   source:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/DateTimeField.cs
-      branch: main
+      branch: dateTimeFix
       repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Format
     path: ../MessageTypes/Next/Models/DateTimeField.cs
