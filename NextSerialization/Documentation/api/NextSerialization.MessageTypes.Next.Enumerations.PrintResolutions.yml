@@ -18,7 +18,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/PrintResolutions.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PrintResolutions
     path: ../MessageTypes/Next/Enumerations/PrintResolutions.cs
     startLine: 6
@@ -51,7 +51,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/PrintResolutions.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Low
     path: ../MessageTypes/Next/Enumerations/PrintResolutions.cs
     startLine: 11
@@ -85,7 +85,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/PrintResolutions.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: High
     path: ../MessageTypes/Next/Enumerations/PrintResolutions.cs
     startLine: 17

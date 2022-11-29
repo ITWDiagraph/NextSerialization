@@ -26,7 +26,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Parameters
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 10
@@ -79,7 +79,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Bearer
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 22
@@ -116,7 +116,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: MilSize
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 28
@@ -153,7 +153,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: QuietZone
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 35
@@ -190,7 +190,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: IsHumanReadable
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 41
@@ -227,7 +227,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FormattedRatio
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 61
@@ -264,7 +264,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Checksum
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 82
@@ -301,7 +301,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Encoding
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 101
@@ -338,7 +338,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: CaseSensitive
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 117
@@ -375,7 +375,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 137
@@ -412,7 +412,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Parameters.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/Parameters.cs
     startLine: 153

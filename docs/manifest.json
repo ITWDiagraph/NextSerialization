@@ -1,0 +1,606 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/src/NextSerialization/NextSerialization/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.BarcodeField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.BarcodeField.html",
+          "hash": "gPWGGJsdMFNGz7vqeb4hUCSy+tuAlPyOItqna/bYORQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Bearer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Bearer.html",
+          "hash": "NBGI9WQBzwpO1m7Ja9qa6C9wHMfbZoi+nCyjxEZsVBc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Box.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Box.html",
+          "hash": "tDV9yr0XqwY3Niom4ODtxUM9KubE4wwQVY1PHDzp3jc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Column.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Column.html",
+          "hash": "GbSHz9Z8ugZKtA2mtn6+v89mYYPcnvSh9mktHlOV2dE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.ComPortData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.ComPortData.html",
+          "hash": "DDci7zKpop/LUDpHgs0GnpqHB4O32fQt0Zo+enHx9G4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.CountField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.CountField.html",
+          "hash": "myqGL72iuSwSTvjzTM2G3d/vfcGnwKnGkFbwFH5/Ca8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.DataSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.DataSource.html",
+          "hash": "OSq80Kc/Sk7Ns8T7QqorgNot7WyRc5iyi+GkXSeYz3A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.DateTimeField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.DateTimeField.html",
+          "hash": "EDU/bKisV2SHWgMr8bUYnAP78qSZWZf1YGb2Wc5xzpQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.BarcodeEncoding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.BarcodeEncoding.html",
+          "hash": "61sceBBWlz/IX48XNbiaKtAChoSBJYOmyv41yhnG9r4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.BarcodeTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.BarcodeTypes.html",
+          "hash": "Nx0yE4grGfI2GgGxqwWOewDp3JdZEprLK/Xb+aKmgcc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.FieldOrientation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.FieldOrientation.html",
+          "hash": "bVLnIcSqka4c7PB3LjY5Hi3OK7mdoxtkxuvqw+VGNgs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.PrintHeadTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.PrintHeadTypes.html",
+          "hash": "ztbu4TqxUBFxnHMvQejbmXauZZlpu3FUHaOLOHtdkOE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.PrintResolutions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.PrintResolutions.html",
+          "hash": "OPzBIFnXPgoh7h7wETCxCE7i1yKVa+LRAtqxH4VocvU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.TaskTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.TaskTypes.html",
+          "hash": "AcEELp29Ms1zTIaLBrf3YHco511E5sYWjhwlPBvh1Ps="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.VarFieldSources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.VarFieldSources.html",
+          "hash": "a7EH9YsfKSY7/NYBVwqlveyot/VZ72LVRx2MAVLEhCs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Enumerations.html",
+          "hash": "NuC9lq1+hxYWJg3T8426oA/Fm+KUMZX1beELjmCMXwg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Extensions.MessageSerializerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Extensions.MessageSerializerExtensions.html",
+          "hash": "RLeTQQIyjoEZ7JxB1PJOA+qNwbtu6fpmVW5C6AMp2NE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Extensions.html",
+          "hash": "05wzjxVNjJ7VgSy0HQY5Mkux5ivTXxRNFG4MswaSk0k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.FieldObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.FieldObject.html",
+          "hash": "cNI3/u/VAuqIriAT0WlTNWNwQIU45I4uCLuaSTQElYM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Font.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Font.html",
+          "hash": "jOpQu0Uu14zoW06MFU1iNYThY6BHNoDEEzhdmAPnA6E="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IFieldObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IFieldObject.html",
+          "hash": "CZ9ZejumUO2nQJ5hS7rURfjXaz6SPxanOfCLI79dmak="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IFontObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IFontObject.html",
+          "hash": "cgBr+DhA5ffSLVaiGFjkkrxvgBfR0GuGbxMJIekTmLY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IShapeObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.IShapeObject.html",
+          "hash": "Pjlr28KkNLzxMS2wKnOe9egxTL7zaW+9iolPHMU+Oq4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Interfaces.html",
+          "hash": "sC8Y4RSiGGdQ/vZ9TvbJT49yakI0lSgNPzDLxkx4uZI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.LineField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.LineField.html",
+          "hash": "PZf59SiHsbldliD9KobiWGkJ9nFZ4yyqL8uk4lwml7w="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.LineThickness.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.LineThickness.html",
+          "hash": "JRMaIlJN+EdPu+TS4x5Sbn5QdClhIznaTLcDat74maY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.LogoField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.LogoField.html",
+          "hash": "oa5IgLzqJRtdVIFM7disE0YK2vKLIxXEmxYufzuISDg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Margin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Margin.html",
+          "hash": "nXEzv9/MejZjbTE24/3Z9cCoBoTHBN79W0eDFBnh1+Y="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.NextMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.NextMessage.html",
+          "hash": "kDMFrOd3cG8VrWN1mSeJVdgmtDHbcFz7TlYOKPCSclM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Panel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Panel.html",
+          "hash": "kZkCXX1eOtK4RsbdtrHYUU4Y10cl+L0ftliThtnL2iE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Parameters.html",
+          "hash": "iZRmWh4tR4lMtyH97smUff9IUHcjbPV0ftTrLdRvM+8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.PrintHead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.PrintHead.html",
+          "hash": "v2mAU3MkbRFAnCITji83ERc1VMcK95umH/Md7Q8B5bo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Product.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Product.html",
+          "hash": "s9yGHQ35KM/h0G0SkZuuRtbSD80F2Dy27vulry5jNPE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.RectangleField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.RectangleField.html",
+          "hash": "YoPQUjOmaQGeynGCfPEJjnkFqM5IbtC/+l4j8YmnW1k="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Resource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Resource.html",
+          "hash": "5uvV4UkqOp1sZe21wUp3IIRSHn+KjXA8l0o3bH2Jgbs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Resources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Resources.html",
+          "hash": "jpLFVWBxNgPag4Jid+xkuPFAU1Mb7TPH9bczlQsgu90="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Serialization.MessageSerializer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Serialization.MessageSerializer.html",
+          "hash": "f/0GqU7PDE9A0qYgw2O6Texvf/xVFbdQqG+CRMctEQU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Serialization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Serialization.html",
+          "hash": "IuUQF1ppbRky+gaerT2Mw8ZKjqyQb1bBqGRR9/D0EoA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.TextField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.TextField.html",
+          "hash": "Jh5Ita+aNS9pzw5OaV7pcgXnRDcVfh/mzJObkIohhus="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.VariableField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.VariableField.html",
+          "hash": "2NLwYWGBUSC8erfyGlwBdwn3Q7JhF8nQTd9oqqUYlnI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.Variables.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.Variables.html",
+          "hash": "lhu/qW4+qeUnV1PJBilOfWYX+CjOHWrv9WZ9hH3ELYg="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NextSerialization.MessageTypes.Next.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NextSerialization.MessageTypes.Next.html",
+          "hash": "9cgLZuysONzd99jrI2FowNINIM0NPnq0vUQ+LNo7rbM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "ZMFb0A8Ivt8kcCOA+9ywp4P5QHD9jUm3lCCGjNBiFN8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "0CazdIRRFcLhA6sJK7Nly+Ihsaz4WmG0MdfmQikjktI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "ANrOjYntMl8IPCGW4PD1wl4icSTnShogtnYbJOPHPFU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "lk5S/3ZHbvX/p8rgaqzcKDImIQPByHkb9urhpKmffNM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 42,
+          "skipped_file_count": 42
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -18,7 +18,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LineField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LineField
     path: ../MessageTypes/Next/Models/LineField.cs
     startLine: 10
@@ -36,9 +36,7 @@ items:
       <Serializable>
 
       Public Class LineField
-
           Inherits FieldObject
-
           Implements IFieldObject
   inheritance:
   - System.Object
@@ -86,7 +84,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LineField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Orientation
     path: ../MessageTypes/Next/Models/LineField.cs
     startLine: 19
@@ -123,7 +121,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LineField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LineThickness
     path: ../MessageTypes/Next/Models/LineField.cs
     startLine: 35

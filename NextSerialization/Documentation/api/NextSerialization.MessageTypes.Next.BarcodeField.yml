@@ -20,7 +20,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: BarcodeField
     path: ../MessageTypes/Next/Models/BarcodeField.cs
     startLine: 10
@@ -38,9 +38,7 @@ items:
       <Serializable>
 
       Public Class BarcodeField
-
           Inherits FieldObject
-
           Implements IFieldObject
   inheritance:
   - System.Object
@@ -88,7 +86,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: BarcodeType
     path: ../MessageTypes/Next/Models/BarcodeField.cs
     startLine: 17
@@ -125,7 +123,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Parameters
     path: ../MessageTypes/Next/Models/BarcodeField.cs
     startLine: 33
@@ -162,7 +160,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Font
     path: ../MessageTypes/Next/Models/BarcodeField.cs
     startLine: 39
@@ -199,7 +197,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/BarcodeField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FieldObject
     path: ../MessageTypes/Next/Models/BarcodeField.cs
     startLine: 48

@@ -19,7 +19,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/TextField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: TextField
     path: ../MessageTypes/Next/Models/TextField.cs
     startLine: 10
@@ -37,9 +37,7 @@ items:
       <Serializable>
 
       Public Class TextField
-
           Inherits FieldObject
-
           Implements IFieldObject, IFontObject
   inheritance:
   - System.Object
@@ -92,7 +90,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/TextField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Family
     path: ../MessageTypes/Next/Models/TextField.cs
     startLine: 17
@@ -131,7 +129,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/TextField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Style
     path: ../MessageTypes/Next/Models/TextField.cs
     startLine: 23
@@ -170,7 +168,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/TextField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Data
     path: ../MessageTypes/Next/Models/TextField.cs
     startLine: 29

@@ -24,7 +24,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FieldObject
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 23
@@ -42,7 +42,6 @@ items:
       <Serializable>
 
       Public MustInherit Class FieldObject
-
           Implements IFieldObject
   inheritance:
   - System.Object
@@ -89,7 +88,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: X
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 39
@@ -129,7 +128,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Y
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 56
@@ -169,7 +168,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 73
@@ -209,7 +208,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 90
@@ -249,7 +248,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LockAspectRatio
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 106
@@ -288,7 +287,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FNC1
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 113
@@ -330,7 +329,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Ai
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 119
@@ -369,7 +368,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/FieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Regex
     path: ../MessageTypes/Next/Models/FieldObject.cs
     startLine: 140

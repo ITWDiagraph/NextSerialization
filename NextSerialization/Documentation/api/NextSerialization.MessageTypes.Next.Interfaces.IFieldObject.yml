@@ -21,7 +21,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: IFieldObject
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
     startLine: 5
@@ -54,7 +54,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: X
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
     startLine: 11
@@ -89,7 +89,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Y
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
     startLine: 17
@@ -124,7 +124,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LockAspectRatio
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
     startLine: 22
@@ -158,7 +158,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
     startLine: 28
@@ -193,7 +193,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Interfaces/IFieldObject.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FNC1
     path: ../MessageTypes/Next/Interfaces/IFieldObject.cs
     startLine: 34

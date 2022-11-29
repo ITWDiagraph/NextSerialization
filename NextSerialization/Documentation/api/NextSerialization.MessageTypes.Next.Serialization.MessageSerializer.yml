@@ -19,7 +19,7 @@ items:
     remote:
       path: NextSerialization/MessageSerializer.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: MessageSerializer
     path: ../MessageSerializer.cs
     startLine: 6
@@ -62,7 +62,7 @@ items:
     remote:
       path: NextSerialization/MessageSerializer.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ReadMessageFile
     path: ../MessageSerializer.cs
     startLine: 18
@@ -74,7 +74,6 @@ items:
   syntax:
     content: >-
       public static T ReadMessageFile<T>(string filePath)
-
           where T : class
     parameters:
     - id: filePath
@@ -112,7 +111,7 @@ items:
     remote:
       path: NextSerialization/MessageSerializer.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ReadMessageXml
     path: ../MessageSerializer.cs
     startLine: 35
@@ -124,7 +123,6 @@ items:
   syntax:
     content: >-
       public static T ReadMessageXml<T>(string messageXml)
-
           where T : class
     parameters:
     - id: messageXml
@@ -162,7 +160,7 @@ items:
     remote:
       path: NextSerialization/MessageSerializer.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: WriteMessageFile
     path: ../MessageSerializer.cs
     startLine: 48
@@ -174,7 +172,6 @@ items:
   syntax:
     content: >-
       public static void WriteMessageFile<T>(T messageRoot, string fileName)
-
           where T : class
     parameters:
     - id: messageRoot

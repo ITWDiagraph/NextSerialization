@@ -23,7 +23,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: VariableField
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 10
@@ -41,9 +41,7 @@ items:
       <Serializable>
 
       Public Class VariableField
-
           Inherits TextField
-
           Implements IFieldObject, IFontObject
   inheritance:
   - System.Object
@@ -96,7 +94,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Source
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 17
@@ -133,7 +131,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Index
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 33
@@ -170,7 +168,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataSetName
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 50
@@ -207,7 +205,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DataColumnName
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 56
@@ -244,7 +242,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: DefaultPreview
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 62
@@ -281,7 +279,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: PromptText
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 68
@@ -318,7 +316,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/VariableField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Length
     path: ../MessageTypes/Next/Models/VariableField.cs
     startLine: 84

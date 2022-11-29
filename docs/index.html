@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>NEXT Message Serialization </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="NEXT Message Serialization ">
+    <meta name="generator" content="docfx 2.59.4.0">
+    
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="styles/docfx.vendor.css">
+    <link rel="stylesheet" href="styles/docfx.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <meta property="docfx:navrel" content="toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="index.html">
+                <img id="logo" class="svg" src="logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="next-message-serialization">NEXT Message Serialization</h1>
+
+<h2 id="overview">Overview</h2>
+<p>The NextSerialization API has been created to facilitate reading and writing messages in the NEXT
+message format without the need to use the UI on an HMI device.</p>
+<h2 id="intended-audience">Intended Audience</h2>
+<p>The NextSerialization API is intended to be used by customers or third-party agents with
+development teams tasked with creating custom messages outside of the NEXTCreate platform.<br>
+See <a href="https://itw-diagraph.github.io/NextSerialization/">API Documentation</a> for more information.</p>
+<h2 id="getting-started">Getting Started</h2>
+<h3 id="installing">Installing</h3>
+<h4 id="package-manager-console">Package Manager Console</h4>
+<pre><code>Install-Package NextSerialization -Version 1.0.0
+</code></pre>
+<h4 id="packagereference">PackageReference</h4>
+<pre><code>&lt;PackageReference Include=&quot;NextSerialization&quot; Version=&quot;1.0.0&quot; /&gt;
+</code></pre>
+<h4 id="net-cli">.NET CLI</h4>
+<pre><code>dotnet add package NextSerialization --version 1.0.0
+</code></pre>
+<h4 id="nuget-package-manager---visual-studio">NuGet Package Manager - Visual Studio</h4>
+<ul>
+<li>Click the 'Project' menu</li>
+<li>Select 'Manage NuGet Packages'</li>
+<li>Enter 'NextSerialization' in the search bar and press enter to search</li>
+<li>Select the NextSerialization package in the results</li>
+<li>Click 'Install'</li>
+</ul>
+<h3 id="basic-usage">Basic Usage</h3>
+<h4 id="read-an-existing-message-file">Read an Existing Message File</h4>
+<pre><code>var inputFile = &quot;DiagraphReferenceResMarkData.next&quot;;
+var messageSerializer = new MessageSerializer();
+var message = MessageSerializer.ReadMessageFile&lt;NextMessage&gt;(inputFile);
+</code></pre>
+<h4 id="write-message-data-to-a-file">Write Message Data to a File</h4>
+<pre><code>var outputFile = @&quot;DiagraphReference_Serialized.next&quot;;
+MessageSerializer.WriteMessageFile&lt;NextMessage&gt;(message, outputFile);
+</code></pre>
+<h2 id="license">License</h2>
+<p>This project is licensed under the MIT License</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/ITW-Diagraph/NextSerialization/blob/main/NextSerialization/Documentation/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="styles/docfx.js"></script>
+    <script type="text/javascript" src="styles/main.js"></script>
+  </body>
+</html>

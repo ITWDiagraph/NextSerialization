@@ -19,7 +19,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/VarFieldSources.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: VarFieldSources
     path: ../MessageTypes/Next/Enumerations/VarFieldSources.cs
     startLine: 6
@@ -52,7 +52,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/VarFieldSources.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: ComPort
     path: ../MessageTypes/Next/Enumerations/VarFieldSources.cs
     startLine: 11
@@ -86,7 +86,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/VarFieldSources.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Data
     path: ../MessageTypes/Next/Enumerations/VarFieldSources.cs
     startLine: 17
@@ -120,7 +120,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Enumerations/VarFieldSources.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Database
     path: ../MessageTypes/Next/Enumerations/VarFieldSources.cs
     startLine: 23

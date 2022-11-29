@@ -17,7 +17,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LogoField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: LogoField
     path: ../MessageTypes/Next/Models/LogoField.cs
     startLine: 8
@@ -35,9 +35,7 @@ items:
       <Serializable>
 
       Public Class LogoField
-
           Inherits FieldObject
-
           Implements IFieldObject
   inheritance:
   - System.Object
@@ -85,7 +83,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/LogoField.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: FileName
     path: ../MessageTypes/Next/Models/LogoField.cs
     startLine: 15

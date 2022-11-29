@@ -19,7 +19,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Box.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Box
     path: ../MessageTypes/Next/Models/Box.cs
     startLine: 9
@@ -73,7 +73,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Box.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Width
     path: ../MessageTypes/Next/Models/Box.cs
     startLine: 16
@@ -110,7 +110,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Box.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Length
     path: ../MessageTypes/Next/Models/Box.cs
     startLine: 22
@@ -147,7 +147,7 @@ items:
     remote:
       path: NextSerialization/MessageTypes/Next/Models/Box.cs
       branch: main
-      repo: git@github.com:diagraph-developer/NextSerialization.git
+      repo: https://github.com/ITW-Diagraph/NextSerialization.git
     id: Height
     path: ../MessageTypes/Next/Models/Box.cs
     startLine: 28
