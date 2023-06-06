@@ -3,7 +3,7 @@
 ## Overview
 
 The NextSerialization API has been created to facilitate reading and writing messages in the NEXT 
-message format without the need to use the UI on an HMI device.
+message format without the need to use the UI on an HMI device.  Documentation for the serialization is available here: https://itwdiagraph.github.io/NextSerialization/
 
 ## Intended Audience
 
