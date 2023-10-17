@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Represents a database or CSV column of data.
 /// </summary>

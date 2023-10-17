@@ -1,8 +1,6 @@
-﻿
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Defines a collection of data connections and source columns for <see cref="VariableField"/> elements.
 /// </summary>

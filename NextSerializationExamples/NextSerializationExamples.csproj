@@ -12,7 +12,6 @@
     <ItemGroup>
       <None Remove="SampleFiles\00157.next" />
       <None Remove="SampleFiles\DiagraphReferenceResMarkData.next" />
-      <None Remove="SampleFiles\NextMessageSchema.xsd" />
     </ItemGroup>
 
     <ItemGroup>
@@ -22,11 +21,14 @@
       <Content Include="SampleFiles\DiagraphReferenceResMarkData.next">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
-      <Content Include="SampleFiles\NextMessageSchema.xsd" />
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="NextSerialization" Version="1.0.1" />
+      <PackageReference Include="NextSerialization" Version="1.0.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NextSerialization\NextSerialization.csproj" />
     </ItemGroup>
 
 </Project>

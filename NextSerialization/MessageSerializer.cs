@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next.Serialization;
+namespace Diagraph.Message.Next.Serialization;
 /// <summary>
 /// Contains methods for serializing and deserializing message data.
 /// </summary>

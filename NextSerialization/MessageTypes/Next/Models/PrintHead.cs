@@ -1,10 +1,8 @@
-﻿
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
-using NextSerialization.MessageTypes.Next.Enumerations;
+using Diagraph.Message.Next.Enumerations;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Represents a physical print head and defines the data that will be rendered and printed by that print head.
 /// </summary>

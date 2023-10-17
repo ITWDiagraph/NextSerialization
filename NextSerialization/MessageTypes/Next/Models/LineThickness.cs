@@ -1,7 +1,7 @@
 ﻿
 using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Specifies the stroke weight of a shape element.
 /// </summary>
