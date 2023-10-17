@@ -1,10 +1,10 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Enumerations;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Defines aspects of the barcode required to validate and render properly.
 /// </summary>

@@ -1,7 +1,7 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Specifies the stroke weight of a shape element.
 /// </summary>

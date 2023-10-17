@@ -1,10 +1,10 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Interfaces;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Describes the aspects of the typeface of a textual element.
 /// </summary>

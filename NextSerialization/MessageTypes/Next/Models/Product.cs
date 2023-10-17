@@ -1,10 +1,8 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Enumerations;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Represents the item that the message data describes and serves as the root XML element of the message file.
 /// </summary>

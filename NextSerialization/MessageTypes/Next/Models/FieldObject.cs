@@ -1,10 +1,10 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Interfaces;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Contains properties that are used to define a general content element on
 /// a <see cref="NextMessage"/> file and serves as the base class for the all derived

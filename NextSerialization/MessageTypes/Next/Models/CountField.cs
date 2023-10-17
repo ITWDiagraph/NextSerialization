@@ -1,8 +1,8 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Represent a textual element that is rendered and printed on each message and incremented by <see cref="Increment"/> for each
 /// subsequent message in the print run.
