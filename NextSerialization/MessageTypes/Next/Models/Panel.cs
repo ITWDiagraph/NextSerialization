@@ -1,8 +1,8 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Represents a surface of a product in which a message can be printed.
 /// </summary>

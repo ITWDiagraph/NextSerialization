@@ -1,6 +1,6 @@
-﻿namespace NextSerialization.MessageTypes.Next.Enumerations;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next.Enumerations;
 /// <summary>
 /// Enumerates the possible values of <see cref="DataSource"/>s for <see cref="VariableField"/> objects.
 /// </summary>

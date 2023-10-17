@@ -1,11 +1,14 @@
-﻿namespace NextSerialization.MessageTypes.Next.Serialization;
+﻿using System.Text;
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next.Serialization;
 /// <summary>
 /// Contains methods for serializing and deserializing message data.
 /// </summary>
 public class MessageSerializer
 {
+    const string ProductXmlNamespace = "xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"";
+
     /// <summary>
     /// Reads the message file and deserializes the XML data into the object tree where the root object <typeparamref name="T"/> 
     /// corresponds to the XML root node.
@@ -16,11 +19,39 @@ public class MessageSerializer
     /// An object of type <typeparamref name="T"/> corresponding to the root node of the XML from <paramref name="filePath"/> and hydrated with
     /// data from the XML nodes and attributes.
     /// </returns>
-    public static T? ReadMessageFile<T>(string filePath) where T : class
+    public static T? ReadMessageFile<T>(string filePath) where T : class =>
+        ReadMessageXml<T>(CorrectMessageXml(File.ReadLines(filePath)));
+
+    /// <summary>
+    /// Fixes missing 'xsi:type' XML namespace that prevents proper serialization of the original message.
+    /// </summary>
+    /// <param name="messageLines">An enumerable collection of lines of the message.</param>
+    /// <returns>The message XML with the namespace injected into the <see cref="Product"/> node.</returns>
+    public static string CorrectMessageXml(IEnumerable<string> messageLines)
     {
-        var serializer = new XmlSerializer(typeof(T));
-        using var reader = new StreamReader(filePath);
-        return serializer.Deserialize(reader) as T;
+        var xmlDeclaration = messageLines.First(line => line.StartsWith("<?xml"));
+        var productObjectNode = messageLines.First(line => line.StartsWith("<ProductObject"));
+        var restOfMessage = messageLines.Skip(2);
+
+        if (productObjectNode.Contains(ProductXmlNamespace, StringComparison.InvariantCultureIgnoreCase))
+        {
+            return string.Join(Environment.NewLine, messageLines);
+        }
+
+        var productObjectTag = productObjectNode.Split(" ").First();
+        var productObjectAttribs = productObjectNode.Split(" ").Skip(1);
+
+        var newProductObjectNode = $"{productObjectTag} {ProductXmlNamespace} {string.Join(" ", productObjectAttribs)}";
+
+        var builder = new StringBuilder();
+        builder.AppendLine(xmlDeclaration);
+        builder.AppendLine(newProductObjectNode);
+        foreach (var line in restOfMessage)
+        {
+            builder.AppendLine(line);
+        }
+
+        return builder.ToString();
     }
 
     /// <summary>

@@ -1,6 +1,6 @@
-﻿namespace NextSerialization.MessageTypes.Next.Enumerations;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next.Enumerations;
 /// <summary>
 /// Enumerated print technologies available.
 /// </summary>

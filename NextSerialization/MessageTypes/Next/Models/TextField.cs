@@ -1,10 +1,10 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Interfaces;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Renders a text element.
 /// </summary>

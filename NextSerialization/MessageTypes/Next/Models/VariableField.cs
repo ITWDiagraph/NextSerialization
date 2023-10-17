@@ -1,10 +1,10 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Enumerations;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// A textual element whos output is sourced from external data.
 /// </summary>

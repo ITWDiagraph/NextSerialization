@@ -1,7 +1,6 @@
-﻿namespace NextSerialization.MessageTypes.Next.Extensions;
+﻿using NextSerialization.MessageTypes.Next.Serialization;
 
-using NextSerialization.MessageTypes.Next.Serialization;
-
+namespace NextSerialization.MessageTypes.Next.Extensions;
 /// <summary>
 /// Contains convenience methods for serializing/deserializing message data to and from file.
 /// </summary>

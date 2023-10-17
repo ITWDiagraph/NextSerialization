@@ -1,6 +1,6 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Represents a database or CSV column of data.
 /// </summary>

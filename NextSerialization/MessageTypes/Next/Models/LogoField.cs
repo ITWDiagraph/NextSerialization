@@ -1,8 +1,8 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// An image element.
 /// </summary>

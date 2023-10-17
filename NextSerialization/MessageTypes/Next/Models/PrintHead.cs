@@ -1,10 +1,10 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Enumerations;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Represents a physical print head and defines the data that will be rendered and printed by that print head.
 /// </summary>

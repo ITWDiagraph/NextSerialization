@@ -1,8 +1,8 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Defines the thickness of the lines that create a bounding box around the rendered barcode element.
 /// </summary>

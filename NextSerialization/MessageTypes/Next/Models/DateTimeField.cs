@@ -1,10 +1,10 @@
-namespace NextSerialization.MessageTypes.Next;
 
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Interfaces;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Represents a textual element consisting of a formatted date and/or timestamp including configured
 /// day/week/month/year offsets.

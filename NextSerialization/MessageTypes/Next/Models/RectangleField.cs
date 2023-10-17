@@ -1,10 +1,10 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
 using NextSerialization.MessageTypes.Next.Interfaces;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Describes a rectangular element to be rendered on the message.
 /// </summary>

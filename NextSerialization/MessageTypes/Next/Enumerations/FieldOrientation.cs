@@ -1,7 +1,7 @@
-﻿namespace NextSerialization.MessageTypes.Next.Enumerations;
-
+﻿
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next.Enumerations;
 /// <summary>
 /// Enumerates orientation values for <see cref="FieldObject"/>s.
 /// </summary>

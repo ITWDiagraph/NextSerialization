@@ -1,7 +1,7 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Defines the area to remain blank on either side of the message.
 /// </summary>

@@ -1,8 +1,8 @@
-﻿namespace NextSerialization.MessageTypes.Next;
-
+﻿
 using System;
 using System.Xml.Serialization;
 
+namespace NextSerialization.MessageTypes.Next;
 /// <summary>
 /// Defines a collection of data connections and source columns for <see cref="VariableField"/> elements.
 /// </summary>
