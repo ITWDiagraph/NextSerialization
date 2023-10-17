@@ -13,12 +13,14 @@
         <PackageIcon>Diagraph_Logo_Stacked_Blue_rgb.jpg</PackageIcon>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageProjectUrl>https://itw-diagraph.github.io/NextSerialization/</PackageProjectUrl>
-        <PackageVersion>1.0.1</PackageVersion>
+        <PackageVersion>1.0.2</PackageVersion>
         <Title>NEXT Message Serialization</Title>
         <RepositoryUrl>https://github.com/diagraph-developer/NextSerialization</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageTags>Diagraph; NEXT Message; Serialization; ResMark;</PackageTags>
         <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+        <AssemblyVersion>1.0.2.0</AssemblyVersion>
+        <FileVersion>1.0.2.0</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
