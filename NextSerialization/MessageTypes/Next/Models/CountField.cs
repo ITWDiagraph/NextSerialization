@@ -1,6 +1,4 @@
-﻿
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
 namespace Diagraph.Message.Next;
 /// <summary>
@@ -11,7 +9,7 @@ namespace Diagraph.Message.Next;
 [XmlType(TypeName = "CountFieldObject")]
 public class CountField : TextField
 {
-    private bool alphaCount;
+    private bool _alphaCount;
 
     /// <summary>
     /// The initial value to use when printing.
@@ -99,8 +97,8 @@ public class CountField : TextField
     [XmlAttribute]
     public string AlphaCount
     {
-        get => alphaCount.ToString();
-        set => alphaCount = bool.Parse(value);
+        get => _alphaCount.ToString();
+        set => _alphaCount = bool.Parse(value);
     }
 
     /// <summary>

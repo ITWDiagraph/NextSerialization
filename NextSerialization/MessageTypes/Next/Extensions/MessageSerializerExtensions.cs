@@ -1,4 +1,4 @@
-﻿using NextSerialization.MessageTypes.Next.Serialization;
+﻿using Diagraph.Message.Next.Serialization;
 
 namespace Diagraph.Message.Next.Extensions;
 /// <summary>
