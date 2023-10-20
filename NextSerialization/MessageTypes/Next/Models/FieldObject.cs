@@ -1,10 +1,8 @@
-﻿
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
-using NextSerialization.MessageTypes.Next.Interfaces;
+using Diagraph.Message.Next.Interfaces;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Contains properties that are used to define a general content element on
 /// a <see cref="NextMessage"/> file and serves as the base class for the all derived

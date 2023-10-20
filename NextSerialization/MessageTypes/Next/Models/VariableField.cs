@@ -1,10 +1,8 @@
-﻿
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
-using NextSerialization.MessageTypes.Next.Enumerations;
+using Diagraph.Message.Next.Enumerations;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// A textual element whos output is sourced from external data.
 /// </summary>

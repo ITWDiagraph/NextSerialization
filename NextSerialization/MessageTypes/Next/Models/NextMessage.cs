@@ -1,4 +1,4 @@
-﻿namespace NextSerialization.MessageTypes.Next;
+﻿namespace Diagraph.Message.Next;
 
 /// <summary>
 /// Wrapper class for the data contained in the NEXT message file.

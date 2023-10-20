@@ -1,8 +1,4 @@
-﻿
-using System;
-using System.Xml.Serialization;
-
-namespace NextSerialization.MessageTypes.Next;
+﻿namespace Diagraph.Message.Next;
 /// <summary>
 /// Represent a textual element that is rendered and printed on each message and incremented by <see cref="Increment"/> for each
 /// subsequent message in the print run.
@@ -11,7 +7,7 @@ namespace NextSerialization.MessageTypes.Next;
 [XmlType(TypeName = "CountFieldObject")]
 public class CountField : TextField
 {
-    private bool alphaCount;
+    private bool _alphaCount;
 
     /// <summary>
     /// The initial value to use when printing.
@@ -99,8 +95,8 @@ public class CountField : TextField
     [XmlAttribute]
     public string AlphaCount
     {
-        get => alphaCount.ToString();
-        set => alphaCount = bool.Parse(value);
+        get => _alphaCount.ToString();
+        set => _alphaCount = bool.Parse(value);
     }
 
     /// <summary>

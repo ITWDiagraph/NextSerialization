@@ -1,4 +1,4 @@
-﻿namespace NextSerialization.MessageTypes.Next.Interfaces;
+﻿namespace Diagraph.Message.Next.Interfaces;
 
 /// <summary>
 /// Defines properties that are intrinsic to any element to be rendered.

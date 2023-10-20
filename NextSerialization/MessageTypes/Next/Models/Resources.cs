@@ -2,7 +2,7 @@
 using System;
 using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// A collection of external file resources.
 /// </summary>

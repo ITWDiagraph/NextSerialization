@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Represents data transmitted as key/value pairs over a serial connection.
 /// </summary>

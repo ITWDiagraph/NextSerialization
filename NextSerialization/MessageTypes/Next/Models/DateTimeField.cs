@@ -1,10 +1,8 @@
-
-using System;
 using System.Xml.Serialization;
 
-using NextSerialization.MessageTypes.Next.Interfaces;
+using Diagraph.Message.Next.Interfaces;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Represents a textual element consisting of a formatted date and/or timestamp including configured
 /// day/week/month/year offsets.

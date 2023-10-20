@@ -1,10 +1,8 @@
-﻿
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
-using NextSerialization.MessageTypes.Next.Enumerations;
+using Diagraph.Message.Next.Enumerations;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Defines aspects of the barcode required to validate and render properly.
 /// </summary>
@@ -12,10 +10,10 @@ namespace NextSerialization.MessageTypes.Next;
 [XmlType(AnonymousType = true)]
 public class Parameters
 {
-    private decimal ratio;
-    private bool isHumanReadable;
-    private bool checksum;
-    private bool caseSensitive;
+    private decimal _ratio;
+    private bool _isHumanReadable;
+    private bool _checksum;
+    private bool _caseSensitive;
 
     /// <summary>
     /// Used to prevent the direct printing pressure from being concentrated on the barcode and to keep the printing pressure even.
@@ -42,8 +40,8 @@ public class Parameters
     [XmlAttribute]
     public string IsHumanReadable
     {
-        get => isHumanReadable.ToString();
-        set => isHumanReadable = bool.Parse(value);
+        get => _isHumanReadable.ToString();
+        set => _isHumanReadable = bool.Parse(value);
     }
 
     /// <summary>
@@ -62,8 +60,8 @@ public class Parameters
     [XmlAttribute("Ratio")]
     public string FormattedRatio
     {
-        get => ratio.ToString("F3");
-        set => _ = decimal.TryParse(value, out ratio);
+        get => _ratio.ToString("F3");
+        set => _ = decimal.TryParse(value, out _ratio);
     }
 
     /// <summary>
@@ -83,8 +81,8 @@ public class Parameters
     [XmlAttribute]
     public string Checksum
     {
-        get => checksum.ToString();
-        set => checksum = bool.Parse(value);
+        get => _checksum.ToString();
+        set => _checksum = bool.Parse(value);
     }
     /// <summary>
     /// Tells the serializer to omit the <see cref="Checksum"/> XML node when the value of <see cref="Checksum"/> is 
@@ -118,8 +116,8 @@ public class Parameters
     [XmlAttribute]
     public string CaseSensitive
     {
-        get => caseSensitive.ToString();
-        set => caseSensitive = bool.Parse(value);
+        get => _caseSensitive.ToString();
+        set => _caseSensitive = bool.Parse(value);
     }
 
     /// <summary>

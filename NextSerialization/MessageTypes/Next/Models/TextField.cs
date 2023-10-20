@@ -1,10 +1,8 @@
-﻿
-using System;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
-using NextSerialization.MessageTypes.Next.Interfaces;
+using Diagraph.Message.Next.Interfaces;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Renders a text element.
 /// </summary>

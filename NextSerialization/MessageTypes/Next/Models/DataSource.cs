@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Defines the properties needed to connect to a database, Excel, or CSV file along with the table and 
 /// columns to use as the source for data on a <see cref="VariableField"/>.

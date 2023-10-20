@@ -1,4 +1,4 @@
-﻿using NextSerialization.MessageTypes.Next.Extensions;
+﻿using Diagraph.Message.Next.Extensions;
 
 var inputFile = @"SampleFiles/00157.next";
 var outputFile = @"SampleFiles/00157_Serialized.next";

@@ -2,7 +2,7 @@
 using System;
 using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Defines the thickness of the lines that create a bounding box around the rendered barcode element.
 /// </summary>

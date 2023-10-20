@@ -2,7 +2,7 @@
 using System;
 using System.Xml.Serialization;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// External data used to render elements of the message.
 /// </summary>

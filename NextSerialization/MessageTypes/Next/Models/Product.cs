@@ -1,8 +1,8 @@
 ﻿using System.Xml.Serialization;
 
-using NextSerialization.MessageTypes.Next.Enumerations;
+using Diagraph.Message.Next.Enumerations;
 
-namespace NextSerialization.MessageTypes.Next;
+namespace Diagraph.Message.Next;
 /// <summary>
 /// Represents the item that the message data describes and serves as the root XML element of the message file.
 /// </summary>
@@ -10,8 +10,8 @@ namespace NextSerialization.MessageTypes.Next;
 [XmlRoot(ElementName = "ProductObject", Namespace = "", IsNullable = false)]
 public class Product
 {
-    private bool usePrintCount;
-    private bool continuousPrint;
+    private bool _usePrintCount;
+    private bool _continuousPrint;
 
     /// <summary>
     /// The name of the message.
@@ -45,8 +45,8 @@ public class Product
     [XmlAttribute]
     public string UsePrintCount
     {
-        get => usePrintCount.ToString();
-        set => usePrintCount = bool.Parse(value);
+        get => _usePrintCount.ToString();
+        set => _usePrintCount = bool.Parse(value);
     }
 
     /// <summary>
@@ -56,8 +56,8 @@ public class Product
     [XmlAttribute]
     public string ContinuousPrint
     {
-        get => continuousPrint.ToString();
-        set => continuousPrint = bool.Parse(value);
+        get => _continuousPrint.ToString();
+        set => _continuousPrint = bool.Parse(value);
     }
 
     /// <summary>
