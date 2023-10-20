@@ -1,6 +1,4 @@
-﻿using System.Xml.Serialization;
-
-namespace Diagraph.Message.Next;
+﻿namespace Diagraph.Message.Next;
 /// <summary>
 /// Represent a textual element that is rendered and printed on each message and incremented by <see cref="Increment"/> for each
 /// subsequent message in the print run.
