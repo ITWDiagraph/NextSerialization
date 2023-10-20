@@ -1,4 +1,6 @@
-﻿namespace Diagraph.Message.Next.Enumerations;
+﻿using System.Xml.Serialization;
+
+namespace Diagraph.Message.Next.Enumerations;
 /// <summary>
 /// Enumerates supported barcode encoding types.
 /// </summary>
