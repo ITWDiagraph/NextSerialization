@@ -25,6 +25,31 @@ public class MessageSerializer
     /// <summary>
     /// Fixes missing 'xsi:type' XML namespace that prevents proper serialization of the original message.
     /// </summary>
+    /// <param name="messageXml">The underlying XML string of the message.</param>
+    /// <returns>The message XML with the namespace injected into the <see cref="Product"/> node.</returns>
+    public static string CorrectMessageXml(string messageXml)
+    {
+        var messageLines = new List<string>();
+        using var reader = new StringReader(messageXml);
+
+        while (true)
+        {
+            var line = reader.ReadLine();
+
+            if (line is null)
+            {
+                break;
+            }
+
+            messageLines.Add(line);
+        }
+
+        return CorrectMessageXml(messageLines);
+    }
+
+    /// <summary>
+    /// Fixes missing 'xsi:type' XML namespace that prevents proper serialization of the original message.
+    /// </summary>
     /// <param name="messageLines">An enumerable collection of lines of the message.</param>
     /// <returns>The message XML with the namespace injected into the <see cref="Product"/> node.</returns>
     public static string CorrectMessageXml(IEnumerable<string> messageLines)
