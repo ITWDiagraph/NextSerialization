@@ -10,7 +10,7 @@ namespace Diagraph.Message.Next;
 [XmlType(TypeName = "Head")]
 public class PrintHead
 {
-    private bool enabled;
+    private bool _enabled;
 
     /// <summary>
     /// The collection of elements that are rendered on the message.
@@ -68,8 +68,8 @@ public class PrintHead
     [XmlAttribute]
     public string Enabled
     {
-        get => enabled.ToString();
-        set => enabled = bool.Parse(value);
+        get => _enabled.ToString();
+        set => _enabled = bool.Parse(value);
     }
 
     /// <summary>
