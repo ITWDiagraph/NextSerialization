@@ -27,6 +27,12 @@ public class Product
     public decimal GapBetweenPrint { get; set; }
 
     /// <summary>
+    /// 
+    /// </summary>
+    [XmlAttribute]
+    public int HorizontalSpacing { get; set; }
+
+    /// <summary>
     /// Indicates the print technology to use for the message.
     /// </summary>
     /// <remarks>Currently the only valid value is 'HighResTask'.</remarks>
