@@ -1,38 +1,26 @@
-﻿using Diagraph.Message.Next;
-using Diagraph.Message.Next.Serialization;
+﻿using Diagraph.Message.Serialization.Serializers;
 
-var inputFile = @"C:\Source\MessageData\convert_Serialized.next";
-var outputFile = @"C:\Source\MessageData\convert_Serialized_out.next";
+string[] inputMessages =
+    [
+        @"C:\Customer Support\Conversions\Baudere\backup1\WMT000045.next",
+        @"C:\Customer Support\Conversions\Baudere\backup1\files\prds\WMT.000045.prd",
+        @"C:\Source\MessageData\PRDs\THOUSAND ISLAND.prd"
+    ];
 
-try
+foreach (var inputMessage in inputMessages)
 {
-    File.Delete(outputFile);
+    var serializer = MessageSerializerFactory.CreateSerializerFromFile(inputMessage);
+    var message = serializer.ReadMessageFile(inputMessage);
 
-    Console.WriteLine($"Reading message data from {inputFile}");
-
-    //var messageLines = File.ReadAllLines(inputFile);
-    //var messageXml = MessageSerializer.CorrectMessageXml(messageLines);
-
-    var product = MessageSerializer.ReadMessageFile<Product>(inputFile);
-
-    var message = new NextMessage
-    {
-        Product = product
-    };
-
-    //var message = inputFile.ReadMessageFromFile() ?? throw new InvalidOperationException("Unable to deserialize message data.");
-
-    Console.WriteLine("Message successfully read.");
-    Console.WriteLine($"Writing message data to {outputFile}");
-
-    MessageSerializer.WriteMessageFile<Product>(message.Product, outputFile);
-
-    Console.WriteLine("Message file successfully written.");
-}
-catch (Exception ex)
-{
-    Console.WriteLine(ex.Message);
+    Console.WriteLine($"Message is {message!.GetType().FullName}");
 }
 
-Console.WriteLine("Press any key to exit.");
-Console.ReadKey();
+foreach (var inputMessage in inputMessages)
+{
+    var messageXmlContent = File.ReadAllText(inputMessage);
+    var serializer = MessageSerializerFactory.CreateSerializerFromContent(messageXmlContent);
+    var message = serializer.ReadMessageXml(messageXmlContent);
+
+    Console.WriteLine($"Message is {message!.GetType().FullName}");
+}
+

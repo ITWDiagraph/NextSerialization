@@ -1,4 +1,6 @@
-﻿namespace Diagraph.Message.Next.Interfaces;
+﻿using Diagraph.Message.Serialization.MessageTypes.Next;
+
+namespace Diagraph.Message.Next.Interfaces;
 
 /// <summary>
 /// Defines properties that describe a font element that is rendered as part of another rendered 

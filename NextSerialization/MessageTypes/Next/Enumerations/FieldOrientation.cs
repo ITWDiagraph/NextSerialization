@@ -1,5 +1,7 @@
 using System.Xml.Serialization;
 
+using Diagraph.Message.Serialization.MessageTypes.Next;
+
 namespace Diagraph.Message.Next.Enumerations;
 /// <summary>
 /// Enumerates orientation values for <see cref="FieldObject"/>s.
